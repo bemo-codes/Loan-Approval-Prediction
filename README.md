@@ -172,14 +172,6 @@ You can download the dataset manually from Kaggle or GitHub.
 3. Save it in the same folder as `app.py`.
 4. Rename it to `loan_approval_dataset.csv` if required.
 
-**Optional command-line download:**
-
-```bash
-python download_dataset.py
-```
-
-The downloader retrieves the CSV from the linked GitHub mirror and checks for the expected column names.
-
 ### 5. Run the application
 
 ```bash
